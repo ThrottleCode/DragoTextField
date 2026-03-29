@@ -6,8 +6,8 @@ A fully customisable `UITextField` wrapper for iOS — supports floating title l
 
 ## Preview
 
-> Add your screenshots here after integration.
-> Example: drag a `DragotextField` onto your storyboard, set the `title` property, and run.
+![Preview1](Screenshots/preview1.png)
+![Preview2](Screenshots/preview2.png)
 
 ---
 

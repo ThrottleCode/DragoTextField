@@ -5,6 +5,8 @@
 //  A fully customisable UITextField wrapper for iOS.
 //  Distribute via Swift Package Manager.
 //
+//  Created by Amandeep Singh on 29/03/26.
+//
 
 import UIKit
 

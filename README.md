@@ -26,7 +26,7 @@ A fully customisable `UITextField` wrapper for iOS — supports floating title l
 1. In Xcode, go to **File → Add Package Dependencies**
 2. Enter the URL:
    ```
-   https://github.com/AmanSandhu14299/DragoTextField
+   https://github.com/ThrottleCode/DragoTextField
    ```
 3. Select version **1.0.0** or **Up to Next Major**
 4. Click **Add Package**
@@ -195,3 +195,7 @@ myField.textField.rightView = myButtonView
 ## License
 
 MIT License — free to use in personal and commercial projects.
+
+---
+
+Created by **Amandeep Singh**

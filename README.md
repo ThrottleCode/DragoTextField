@@ -7,7 +7,7 @@ A fully customisable `UITextField` wrapper for iOS — supports floating title l
 ## Preview
 
 <p align="center">
-  <img src="Sources/Screenshots/Preview3.png" width="250"/>
+  <img src="Sources/Screenshots/preview4.png" width="350"/>
 </p>
 
 ---

@@ -1,6 +1,6 @@
 # DragoTextField
 
-A fully customisable `UITextField` wrapper for iOS — supports floating title labels, custom padding, max length, secure entry, and much more. Distributed via Swift Package Manager.
+A fully customisable `UITextField` wrapper for iOS — supports floating title labels, custom padding, max length, secure entry, and much more. Distributed via Swift Package Manager and CocoaPods.
 
 ---
 
@@ -31,6 +31,24 @@ A fully customisable `UITextField` wrapper for iOS — supports floating title l
    ```
 3. Select version **1.0.0** or **Up to Next Major**
 4. Click **Add Package**
+
+---
+
+### CocoaPods
+
+1. Add this to your `Podfile`:
+   ```ruby
+   pod 'DragoTextField'
+   ```
+2. Run:
+   ```bash
+   pod install
+   ```
+3. Open `.xcworkspace` file instead of `.xcodeproj`
+4. Import in your Swift file:
+   ```swift
+   import DragoTextField
+   ```
 
 ---
 
